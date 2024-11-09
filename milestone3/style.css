@@ -1,13 +1,7 @@
 
 /* Styling form and resume sections */
 
-body{
-    font-family: 'Times New Roman', Times, serif;
-    margin:20px ;
-    padding: 0;
-    background-color: white;
-}
-/* body {
+body {
     font-family: 'Times New Roman', Times, serif;
     margin: 20px;
     padding: 0;
@@ -89,4 +83,4 @@ button :hover {
 
 #resume-display h2 {
     color: black;
-}  */
+}  
